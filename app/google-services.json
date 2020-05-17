@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "102248533359",
+    "firebase_url": "https://fir-tutorials-1834f.firebaseio.com",
+    "project_id": "fir-tutorials-1834f",
+    "storage_bucket": "fir-tutorials-1834f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102248533359:android:00e37ac5ccb9e71eb46c9a",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102248533359-krvvg8dhctem47tqcbnndfeq1t85srag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetutorial",
+            "certificate_hash": "9fc7d3182925cff7094ff43079be77708c130166"
+          }
+        },
+        {
+          "client_id": "102248533359-538rp0qba17r9r3ndppt3lj3e2hvodr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnW4fkaqLeEw2MeG5Sy_PuAVakaved-1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102248533359-538rp0qba17r9r3ndppt3lj3e2hvodr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
